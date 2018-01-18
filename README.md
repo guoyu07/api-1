@@ -1,2 +1,2 @@
 # api
-api for QQMusic
+- QQMusicPlayerWebApp的中间代理请求数据接口
